@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./folder.css";
 import Folder from "./Folder";
 const FolderComponent = ({ setSelected }) => {
