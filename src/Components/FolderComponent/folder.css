@@ -1,0 +1,19 @@
+.folder-card {
+  width: 270px;
+  height: 75px;
+  cursor: pointer;
+}
+.fa-folder {
+  font-size: 35px;
+  color: rgb(67, 142, 255);
+}
+
+.fa-ellipsis-vertical {
+  position: absolute;
+  top: 13%;
+  right: 3%;
+  font-size: 18px;
+}
+.folder-name {
+  font-weight: 700;
+}

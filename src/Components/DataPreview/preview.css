@@ -1,0 +1,45 @@
+.preview-component {
+  margin-right: 5%;
+  width: 322px;
+  height: 570px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.upper-section {
+  padding: 7%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.fa-file-excel {
+  font-size: 5em;
+  color: green;
+  padding: 37px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.right_details {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-right: 10px;
+  padding: 5px;
+}
+
+table {
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  width: 90%;
+  margin-left: 6%;
+}
+
+th {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  text-align: center;
+  padding: 10px;
+}
+
+td {
+  text-align: center;
+  padding: 10px;
+}
+
+.table-row {
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
